@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "pen",
+        "category": "Stationary",
+        "quantity": 1,
+        "price": 12.0
+    },
+    {
+        "id": "2",
+        "name": "biryani",
+        "category": "Food",
+        "quantity": 1,
+        "price": 200.0
+    }
+]
